@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "prjThreadBasico/1.0.0": {
+        "runtime": {
+          "prjThreadBasico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prjThreadBasico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

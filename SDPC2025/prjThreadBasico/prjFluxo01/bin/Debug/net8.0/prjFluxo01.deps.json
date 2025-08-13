@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "prjFluxo01/1.0.0": {
+        "runtime": {
+          "prjFluxo01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prjFluxo01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

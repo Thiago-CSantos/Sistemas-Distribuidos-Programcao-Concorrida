@@ -1,0 +1,14 @@
+C:\Users\android\Desktop\SDPC2025\prjThreadBasico\prjFluxo01\bin\Debug\net8.0\prjFluxo01.exe
+C:\Users\android\Desktop\SDPC2025\prjThreadBasico\prjFluxo01\bin\Debug\net8.0\prjFluxo01.deps.json
+C:\Users\android\Desktop\SDPC2025\prjThreadBasico\prjFluxo01\bin\Debug\net8.0\prjFluxo01.runtimeconfig.json
+C:\Users\android\Desktop\SDPC2025\prjThreadBasico\prjFluxo01\bin\Debug\net8.0\prjFluxo01.dll
+C:\Users\android\Desktop\SDPC2025\prjThreadBasico\prjFluxo01\bin\Debug\net8.0\prjFluxo01.pdb
+C:\Users\android\Desktop\SDPC2025\prjThreadBasico\prjFluxo01\obj\Debug\net8.0\prjFluxo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Desktop\SDPC2025\prjThreadBasico\prjFluxo01\obj\Debug\net8.0\prjFluxo01.AssemblyInfoInputs.cache
+C:\Users\android\Desktop\SDPC2025\prjThreadBasico\prjFluxo01\obj\Debug\net8.0\prjFluxo01.AssemblyInfo.cs
+C:\Users\android\Desktop\SDPC2025\prjThreadBasico\prjFluxo01\obj\Debug\net8.0\prjFluxo01.csproj.CoreCompileInputs.cache
+C:\Users\android\Desktop\SDPC2025\prjThreadBasico\prjFluxo01\obj\Debug\net8.0\prjFluxo01.dll
+C:\Users\android\Desktop\SDPC2025\prjThreadBasico\prjFluxo01\obj\Debug\net8.0\refint\prjFluxo01.dll
+C:\Users\android\Desktop\SDPC2025\prjThreadBasico\prjFluxo01\obj\Debug\net8.0\prjFluxo01.pdb
+C:\Users\android\Desktop\SDPC2025\prjThreadBasico\prjFluxo01\obj\Debug\net8.0\prjFluxo01.genruntimeconfig.cache
+C:\Users\android\Desktop\SDPC2025\prjThreadBasico\prjFluxo01\obj\Debug\net8.0\ref\prjFluxo01.dll
