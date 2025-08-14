@@ -1,0 +1,14 @@
+C:\Users\android\Desktop\prjPrioridade\prjFilaThread\bin\Debug\net8.0\prjFilaThread.exe
+C:\Users\android\Desktop\prjPrioridade\prjFilaThread\bin\Debug\net8.0\prjFilaThread.deps.json
+C:\Users\android\Desktop\prjPrioridade\prjFilaThread\bin\Debug\net8.0\prjFilaThread.runtimeconfig.json
+C:\Users\android\Desktop\prjPrioridade\prjFilaThread\bin\Debug\net8.0\prjFilaThread.dll
+C:\Users\android\Desktop\prjPrioridade\prjFilaThread\bin\Debug\net8.0\prjFilaThread.pdb
+C:\Users\android\Desktop\prjPrioridade\prjFilaThread\obj\Debug\net8.0\prjFilaThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Desktop\prjPrioridade\prjFilaThread\obj\Debug\net8.0\prjFilaThread.AssemblyInfoInputs.cache
+C:\Users\android\Desktop\prjPrioridade\prjFilaThread\obj\Debug\net8.0\prjFilaThread.AssemblyInfo.cs
+C:\Users\android\Desktop\prjPrioridade\prjFilaThread\obj\Debug\net8.0\prjFilaThread.csproj.CoreCompileInputs.cache
+C:\Users\android\Desktop\prjPrioridade\prjFilaThread\obj\Debug\net8.0\prjFilaThread.dll
+C:\Users\android\Desktop\prjPrioridade\prjFilaThread\obj\Debug\net8.0\refint\prjFilaThread.dll
+C:\Users\android\Desktop\prjPrioridade\prjFilaThread\obj\Debug\net8.0\prjFilaThread.pdb
+C:\Users\android\Desktop\prjPrioridade\prjFilaThread\obj\Debug\net8.0\prjFilaThread.genruntimeconfig.cache
+C:\Users\android\Desktop\prjPrioridade\prjFilaThread\obj\Debug\net8.0\ref\prjFilaThread.dll

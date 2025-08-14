@@ -1,0 +1,14 @@
+C:\Users\android\Desktop\prjPrioridade\prjPrioridade\bin\Debug\net8.0\prjPrioridade.exe
+C:\Users\android\Desktop\prjPrioridade\prjPrioridade\bin\Debug\net8.0\prjPrioridade.deps.json
+C:\Users\android\Desktop\prjPrioridade\prjPrioridade\bin\Debug\net8.0\prjPrioridade.runtimeconfig.json
+C:\Users\android\Desktop\prjPrioridade\prjPrioridade\bin\Debug\net8.0\prjPrioridade.dll
+C:\Users\android\Desktop\prjPrioridade\prjPrioridade\bin\Debug\net8.0\prjPrioridade.pdb
+C:\Users\android\Desktop\prjPrioridade\prjPrioridade\obj\Debug\net8.0\prjPrioridade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Desktop\prjPrioridade\prjPrioridade\obj\Debug\net8.0\prjPrioridade.AssemblyInfoInputs.cache
+C:\Users\android\Desktop\prjPrioridade\prjPrioridade\obj\Debug\net8.0\prjPrioridade.AssemblyInfo.cs
+C:\Users\android\Desktop\prjPrioridade\prjPrioridade\obj\Debug\net8.0\prjPrioridade.csproj.CoreCompileInputs.cache
+C:\Users\android\Desktop\prjPrioridade\prjPrioridade\obj\Debug\net8.0\prjPrioridade.dll
+C:\Users\android\Desktop\prjPrioridade\prjPrioridade\obj\Debug\net8.0\refint\prjPrioridade.dll
+C:\Users\android\Desktop\prjPrioridade\prjPrioridade\obj\Debug\net8.0\prjPrioridade.pdb
+C:\Users\android\Desktop\prjPrioridade\prjPrioridade\obj\Debug\net8.0\prjPrioridade.genruntimeconfig.cache
+C:\Users\android\Desktop\prjPrioridade\prjPrioridade\obj\Debug\net8.0\ref\prjPrioridade.dll
