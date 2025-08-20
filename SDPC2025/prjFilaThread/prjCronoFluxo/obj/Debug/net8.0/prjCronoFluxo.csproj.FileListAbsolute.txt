@@ -1,0 +1,14 @@
+C:\Users\android\Desktop\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjCronoFluxo\bin\Debug\net8.0\prjCronoFluxo.exe
+C:\Users\android\Desktop\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjCronoFluxo\bin\Debug\net8.0\prjCronoFluxo.deps.json
+C:\Users\android\Desktop\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjCronoFluxo\bin\Debug\net8.0\prjCronoFluxo.runtimeconfig.json
+C:\Users\android\Desktop\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjCronoFluxo\bin\Debug\net8.0\prjCronoFluxo.dll
+C:\Users\android\Desktop\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjCronoFluxo\bin\Debug\net8.0\prjCronoFluxo.pdb
+C:\Users\android\Desktop\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjCronoFluxo\obj\Debug\net8.0\prjCronoFluxo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Desktop\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjCronoFluxo\obj\Debug\net8.0\prjCronoFluxo.AssemblyInfoInputs.cache
+C:\Users\android\Desktop\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjCronoFluxo\obj\Debug\net8.0\prjCronoFluxo.AssemblyInfo.cs
+C:\Users\android\Desktop\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjCronoFluxo\obj\Debug\net8.0\prjCronoFluxo.csproj.CoreCompileInputs.cache
+C:\Users\android\Desktop\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjCronoFluxo\obj\Debug\net8.0\prjCronoFluxo.dll
+C:\Users\android\Desktop\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjCronoFluxo\obj\Debug\net8.0\refint\prjCronoFluxo.dll
+C:\Users\android\Desktop\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjCronoFluxo\obj\Debug\net8.0\prjCronoFluxo.pdb
+C:\Users\android\Desktop\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjCronoFluxo\obj\Debug\net8.0\prjCronoFluxo.genruntimeconfig.cache
+C:\Users\android\Desktop\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjCronoFluxo\obj\Debug\net8.0\ref\prjCronoFluxo.dll
