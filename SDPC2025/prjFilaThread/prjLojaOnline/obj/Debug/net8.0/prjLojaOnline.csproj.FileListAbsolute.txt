@@ -1,0 +1,14 @@
+C:\Users\android\Downloads\Sistemas-Distribuidos-Programcao-Concorrida-main\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjLojaOnline\bin\Debug\net8.0\prjLojaOnline.exe
+C:\Users\android\Downloads\Sistemas-Distribuidos-Programcao-Concorrida-main\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjLojaOnline\bin\Debug\net8.0\prjLojaOnline.deps.json
+C:\Users\android\Downloads\Sistemas-Distribuidos-Programcao-Concorrida-main\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjLojaOnline\bin\Debug\net8.0\prjLojaOnline.runtimeconfig.json
+C:\Users\android\Downloads\Sistemas-Distribuidos-Programcao-Concorrida-main\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjLojaOnline\bin\Debug\net8.0\prjLojaOnline.dll
+C:\Users\android\Downloads\Sistemas-Distribuidos-Programcao-Concorrida-main\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjLojaOnline\bin\Debug\net8.0\prjLojaOnline.pdb
+C:\Users\android\Downloads\Sistemas-Distribuidos-Programcao-Concorrida-main\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjLojaOnline\obj\Debug\net8.0\prjLojaOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Downloads\Sistemas-Distribuidos-Programcao-Concorrida-main\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjLojaOnline\obj\Debug\net8.0\prjLojaOnline.AssemblyInfoInputs.cache
+C:\Users\android\Downloads\Sistemas-Distribuidos-Programcao-Concorrida-main\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjLojaOnline\obj\Debug\net8.0\prjLojaOnline.AssemblyInfo.cs
+C:\Users\android\Downloads\Sistemas-Distribuidos-Programcao-Concorrida-main\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjLojaOnline\obj\Debug\net8.0\prjLojaOnline.csproj.CoreCompileInputs.cache
+C:\Users\android\Downloads\Sistemas-Distribuidos-Programcao-Concorrida-main\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjLojaOnline\obj\Debug\net8.0\prjLojaOnline.dll
+C:\Users\android\Downloads\Sistemas-Distribuidos-Programcao-Concorrida-main\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjLojaOnline\obj\Debug\net8.0\refint\prjLojaOnline.dll
+C:\Users\android\Downloads\Sistemas-Distribuidos-Programcao-Concorrida-main\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjLojaOnline\obj\Debug\net8.0\prjLojaOnline.pdb
+C:\Users\android\Downloads\Sistemas-Distribuidos-Programcao-Concorrida-main\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjLojaOnline\obj\Debug\net8.0\prjLojaOnline.genruntimeconfig.cache
+C:\Users\android\Downloads\Sistemas-Distribuidos-Programcao-Concorrida-main\Sistemas-Distribuidos-Programcao-Concorrida-main\SDPC2025\prjFilaThread\prjLojaOnline\obj\Debug\net8.0\ref\prjLojaOnline.dll

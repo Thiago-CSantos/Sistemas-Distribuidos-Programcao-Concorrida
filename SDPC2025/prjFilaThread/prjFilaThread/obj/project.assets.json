@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\android\\Desktop\\Sistemas-Distribuidos-Programcao-Concorrida-main\\SDPC2025\\prjFilaThread\\prjFilaThread\\prjFilaThread.csproj",
+      "projectUniqueName": "C:\\Users\\android\\Downloads\\Sistemas-Distribuidos-Programcao-Concorrida-main\\Sistemas-Distribuidos-Programcao-Concorrida-main\\SDPC2025\\prjFilaThread\\prjFilaThread\\prjFilaThread.csproj",
       "projectName": "prjFilaThread",
-      "projectPath": "C:\\Users\\android\\Desktop\\Sistemas-Distribuidos-Programcao-Concorrida-main\\SDPC2025\\prjFilaThread\\prjFilaThread\\prjFilaThread.csproj",
+      "projectPath": "C:\\Users\\android\\Downloads\\Sistemas-Distribuidos-Programcao-Concorrida-main\\Sistemas-Distribuidos-Programcao-Concorrida-main\\SDPC2025\\prjFilaThread\\prjFilaThread\\prjFilaThread.csproj",
       "packagesPath": "C:\\Users\\android\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\android\\Desktop\\Sistemas-Distribuidos-Programcao-Concorrida-main\\SDPC2025\\prjFilaThread\\prjFilaThread\\obj\\",
+      "outputPath": "C:\\Users\\android\\Downloads\\Sistemas-Distribuidos-Programcao-Concorrida-main\\Sistemas-Distribuidos-Programcao-Concorrida-main\\SDPC2025\\prjFilaThread\\prjFilaThread\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
