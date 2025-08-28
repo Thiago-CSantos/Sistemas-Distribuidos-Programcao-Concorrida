@@ -1,0 +1,14 @@
+C:\Users\android\Downloads\SDPC2025\slnPraticasThread\prjTravamento\bin\Debug\net8.0\prjTravamento.exe
+C:\Users\android\Downloads\SDPC2025\slnPraticasThread\prjTravamento\bin\Debug\net8.0\prjTravamento.deps.json
+C:\Users\android\Downloads\SDPC2025\slnPraticasThread\prjTravamento\bin\Debug\net8.0\prjTravamento.runtimeconfig.json
+C:\Users\android\Downloads\SDPC2025\slnPraticasThread\prjTravamento\bin\Debug\net8.0\prjTravamento.dll
+C:\Users\android\Downloads\SDPC2025\slnPraticasThread\prjTravamento\bin\Debug\net8.0\prjTravamento.pdb
+C:\Users\android\Downloads\SDPC2025\slnPraticasThread\prjTravamento\obj\Debug\net8.0\prjTravamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Downloads\SDPC2025\slnPraticasThread\prjTravamento\obj\Debug\net8.0\prjTravamento.AssemblyInfoInputs.cache
+C:\Users\android\Downloads\SDPC2025\slnPraticasThread\prjTravamento\obj\Debug\net8.0\prjTravamento.AssemblyInfo.cs
+C:\Users\android\Downloads\SDPC2025\slnPraticasThread\prjTravamento\obj\Debug\net8.0\prjTravamento.csproj.CoreCompileInputs.cache
+C:\Users\android\Downloads\SDPC2025\slnPraticasThread\prjTravamento\obj\Debug\net8.0\prjTravamento.dll
+C:\Users\android\Downloads\SDPC2025\slnPraticasThread\prjTravamento\obj\Debug\net8.0\refint\prjTravamento.dll
+C:\Users\android\Downloads\SDPC2025\slnPraticasThread\prjTravamento\obj\Debug\net8.0\prjTravamento.pdb
+C:\Users\android\Downloads\SDPC2025\slnPraticasThread\prjTravamento\obj\Debug\net8.0\prjTravamento.genruntimeconfig.cache
+C:\Users\android\Downloads\SDPC2025\slnPraticasThread\prjTravamento\obj\Debug\net8.0\ref\prjTravamento.dll
