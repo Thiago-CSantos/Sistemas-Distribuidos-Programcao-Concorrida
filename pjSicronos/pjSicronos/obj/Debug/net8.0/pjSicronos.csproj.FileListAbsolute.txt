@@ -1,0 +1,14 @@
+C:\Users\android\source\repos\pjSicronos\pjSicronos\obj\Debug\net8.0\pjSicronos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\source\repos\pjSicronos\pjSicronos\obj\Debug\net8.0\pjSicronos.AssemblyInfoInputs.cache
+C:\Users\android\source\repos\pjSicronos\pjSicronos\obj\Debug\net8.0\pjSicronos.AssemblyInfo.cs
+C:\Users\android\source\repos\pjSicronos\pjSicronos\obj\Debug\net8.0\pjSicronos.csproj.CoreCompileInputs.cache
+C:\Users\android\source\repos\pjSicronos\pjSicronos\bin\Debug\net8.0\pjSicronos.exe
+C:\Users\android\source\repos\pjSicronos\pjSicronos\bin\Debug\net8.0\pjSicronos.deps.json
+C:\Users\android\source\repos\pjSicronos\pjSicronos\bin\Debug\net8.0\pjSicronos.runtimeconfig.json
+C:\Users\android\source\repos\pjSicronos\pjSicronos\bin\Debug\net8.0\pjSicronos.dll
+C:\Users\android\source\repos\pjSicronos\pjSicronos\bin\Debug\net8.0\pjSicronos.pdb
+C:\Users\android\source\repos\pjSicronos\pjSicronos\obj\Debug\net8.0\pjSicronos.dll
+C:\Users\android\source\repos\pjSicronos\pjSicronos\obj\Debug\net8.0\refint\pjSicronos.dll
+C:\Users\android\source\repos\pjSicronos\pjSicronos\obj\Debug\net8.0\pjSicronos.pdb
+C:\Users\android\source\repos\pjSicronos\pjSicronos\obj\Debug\net8.0\pjSicronos.genruntimeconfig.cache
+C:\Users\android\source\repos\pjSicronos\pjSicronos\obj\Debug\net8.0\ref\pjSicronos.dll
